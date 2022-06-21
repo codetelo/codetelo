@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codetelo
+- 👀 I’m interested in RTK Query, Typescript/Javascript, AWS, Github Actions, NoSQL & SQL, React, and Yeoman.
+- 🌱 I’m currently learning Yeoman.
+- 
